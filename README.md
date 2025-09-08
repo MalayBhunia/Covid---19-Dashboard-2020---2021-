@@ -11,10 +11,10 @@ An interactive Power BI dashboard that provides a comprehensive analysis of Covi
 deaths, and vaccination progress, helping to track the pandemic’s impact and recovery trends at both state and national levels.
 
 ### 3.	⚙️ Tech Stack
-•  Power BI Desktop – Data visualization and dashboard creation
-•  DAX (Data Analysis Expressions) – For calculated measures and KPIs
-•  Power Query – Data transformation and cleaning
-•  Kaggle Dataset – Covid-19 India state-level data
+•  Power BI Desktop – Data visualization and dashboard creation <br>
+•  DAX (Data Analysis Expressions) – For calculated measures and KPIs <br>
+•  Power Query – Data transformation and cleaning <br>
+•  Kaggle Dataset – Covid-19 India state-level data <br>
 
 ### 4.	Data Source
 • Dataset: Kaggle – Covid-19 India State-wise Data
